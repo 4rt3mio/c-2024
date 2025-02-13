@@ -1,0 +1,11 @@
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\bin\Debug\net8.0\Surautsau_353505_Lab5.Domain.deps.json
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\bin\Debug\net8.0\Surautsau_353505_Lab5.Domain.dll
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\bin\Debug\net8.0\Surautsau_353505_Lab5.Domain.pdb
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\Surautsau_353505_Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\Surautsau_353505_Lab5.Domain.AssemblyInfoInputs.cache
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\Surautsau_353505_Lab5.Domain.AssemblyInfo.cs
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\Surautsau_353505_Lab5.Domain.csproj.CoreCompileInputs.cache
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\Surautsau_353505_Lab5.Domain.dll
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\refint\Surautsau_353505_Lab5.Domain.dll
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\Surautsau_353505_Lab5.Domain.pdb
+D:\csharp\Surautsau_353505_Lab5\Surautsau_353505_Lab5.Domain\obj\Debug\net8.0\ref\Surautsau_353505_Lab5.Domain.dll

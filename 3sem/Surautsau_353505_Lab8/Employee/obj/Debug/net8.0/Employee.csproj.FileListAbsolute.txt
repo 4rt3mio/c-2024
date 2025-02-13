@@ -1,0 +1,11 @@
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\bin\Debug\net8.0\Employee.dll
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\bin\Debug\net8.0\Employee.pdb
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\Employee.dll
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\Employee.pdb
+D:\csharp\3sem\Surautsau_353505_Lab8\Employee\obj\Debug\net8.0\ref\Employee.dll

@@ -1,0 +1,11 @@
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\bin\Debug\net8.0\IntegralCalculator.deps.json
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\bin\Debug\net8.0\IntegralCalculator.dll
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\bin\Debug\net8.0\IntegralCalculator.pdb
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.AssemblyInfoInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.AssemblyInfo.cs
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.csproj.CoreCompileInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.dll
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\refint\IntegralCalculator.dll
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\IntegralCalculator.pdb
+D:\csharp\3sem\Surautsau_353505_Lab7\IntegralCalculator\obj\Debug\net8.0\ref\IntegralCalculator.dll

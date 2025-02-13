@@ -1,0 +1,14 @@
+D:\csharp\_353505_Surautsau_Lab9\Task\bin\Debug\net8.0\Task.exe
+D:\csharp\_353505_Surautsau_Lab9\Task\bin\Debug\net8.0\Task.deps.json
+D:\csharp\_353505_Surautsau_Lab9\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+D:\csharp\_353505_Surautsau_Lab9\Task\bin\Debug\net8.0\Task.dll
+D:\csharp\_353505_Surautsau_Lab9\Task\bin\Debug\net8.0\Task.pdb
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.dll
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\refint\Task.dll
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.pdb
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+D:\csharp\_353505_Surautsau_Lab9\Task\obj\Debug\net8.0\ref\Task.dll

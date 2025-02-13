@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|D:\\csharp\\3sem\\Surautsau_353505_Lab1\\task\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|d:\\csharp\\3sem\\surautsau_353505_lab1\\task\\entities\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\entities\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|d:\\csharp\\3sem\\surautsau_353505_lab1\\task\\contracts\\iairportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\contracts\\iairportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|d:\\csharp\\3sem\\surautsau_353505_lab1\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|d:\\csharp\\3sem\\surautsau_353505_lab1\\task\\otherclasses\\demonstrationofmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\otherclasses\\demonstrationofmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|d:\\csharp\\3sem\\surautsau_353505_lab1\\task\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|d:\\csharp\\3sem\\surautsau_353505_lab1\\task\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE95ED-5B12-4838-B4EA-8D2F71176AA2}|Task\\Task.csproj|solutionrelative:task\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemonstrationOfMethods.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\OtherClasses\\DemonstrationOfMethods.cs",
+              "RelativeDocumentMoniker": "Task\\OtherClasses\\DemonstrationOfMethods.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\OtherClasses\\DemonstrationOfMethods.cs",
+              "RelativeToolTip": "Task\\OtherClasses\\DemonstrationOfMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:45:10.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Entities\\Airport.cs",
+              "RelativeDocumentMoniker": "Task\\Entities\\Airport.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Entities\\Airport.cs",
+              "RelativeToolTip": "Task\\Entities\\Airport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:30:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAirportSystem.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Contracts\\IAirportSystem.cs",
+              "RelativeDocumentMoniker": "Task\\Contracts\\IAirportSystem.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Contracts\\IAirportSystem.cs",
+              "RelativeToolTip": "Task\\Contracts\\IAirportSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:09:19.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyCustomCollection.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Collections\\MyCustomCollection.cs",
+              "RelativeDocumentMoniker": "Task\\Collections\\MyCustomCollection.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Collections\\MyCustomCollection.cs",
+              "RelativeToolTip": "Task\\Collections\\MyCustomCollection.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAI4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:25:54.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomCollection.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Interfaces\\ICustomCollection.cs",
+              "RelativeDocumentMoniker": "Task\\Interfaces\\ICustomCollection.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Interfaces\\ICustomCollection.cs",
+              "RelativeToolTip": "Task\\Interfaces\\ICustomCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:21:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:18:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Task\\ClassDiagram1.cd",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab1\\Task\\ClassDiagram1.cd",
+              "RelativeToolTip": "Task\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-12T20:17:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

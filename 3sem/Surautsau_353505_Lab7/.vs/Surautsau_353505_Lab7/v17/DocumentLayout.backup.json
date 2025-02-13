@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F56654F-A30E-46B6-A33B-C7BB9AF83B30}|Surautsau_353505_Lab7\\Surautsau_353505_Lab7.csproj|d:\\csharp\\3sem\\surautsau_353505_lab7\\surautsau_353505_lab7\\otherclasses\\integratorrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F56654F-A30E-46B6-A33B-C7BB9AF83B30}|Surautsau_353505_Lab7\\Surautsau_353505_Lab7.csproj|solutionrelative:surautsau_353505_lab7\\otherclasses\\integratorrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F56654F-A30E-46B6-A33B-C7BB9AF83B30}|Surautsau_353505_Lab7\\Surautsau_353505_Lab7.csproj|d:\\csharp\\3sem\\surautsau_353505_lab7\\surautsau_353505_lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F56654F-A30E-46B6-A33B-C7BB9AF83B30}|Surautsau_353505_Lab7\\Surautsau_353505_Lab7.csproj|solutionrelative:surautsau_353505_lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF33D40-3A4C-4EE8-BD0C-27A269EBF9B3}|IntegralCalculator\\IntegralCalculator.csproj|d:\\csharp\\3sem\\surautsau_353505_lab7\\integralcalculator\\integral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF33D40-3A4C-4EE8-BD0C-27A269EBF9B3}|IntegralCalculator\\IntegralCalculator.csproj|solutionrelative:integralcalculator\\integral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegratorRunner.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\Surautsau_353505_Lab7\\OtherClasses\\IntegratorRunner.cs",
+              "RelativeDocumentMoniker": "Surautsau_353505_Lab7\\OtherClasses\\IntegratorRunner.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\Surautsau_353505_Lab7\\OtherClasses\\IntegratorRunner.cs",
+              "RelativeToolTip": "Surautsau_353505_Lab7\\OtherClasses\\IntegratorRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:01:09.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Integral.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\IntegralCalculator\\Integral.cs",
+              "RelativeDocumentMoniker": "IntegralCalculator\\Integral.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\IntegralCalculator\\Integral.cs",
+              "RelativeToolTip": "IntegralCalculator\\Integral.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:12:48.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\Surautsau_353505_Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Surautsau_353505_Lab7\\Program.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab7\\Surautsau_353505_Lab7\\Program.cs",
+              "RelativeToolTip": "Surautsau_353505_Lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:56:43.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

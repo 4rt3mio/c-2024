@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFactory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Factory>
+    <Name>Factory1</Name>
+    <Warehouse>
+      <Name>Warehouse1</Name>
+      <Location>Location1</Location>
+      <PartCount>0</PartCount>
+    </Warehouse>
+  </Factory>
+  <Factory>
+    <Name>Factory2</Name>
+    <Warehouse>
+      <Name>Warehouse2</Name>
+      <Location>Location2</Location>
+      <PartCount>0</PartCount>
+    </Warehouse>
+  </Factory>
+  <Factory>
+    <Name>Factory3</Name>
+    <Warehouse>
+      <Name>Warehouse3</Name>
+      <Location>Location3</Location>
+      <PartCount>0</PartCount>
+    </Warehouse>
+  </Factory>
+  <Factory>
+    <Name>Factory4</Name>
+    <Warehouse>
+      <Name>Warehouse4</Name>
+      <Location>Location4</Location>
+      <PartCount>0</PartCount>
+    </Warehouse>
+  </Factory>
+  <Factory>
+    <Name>Factory5</Name>
+    <Warehouse>
+      <Name>Warehouse5</Name>
+      <Location>Location5</Location>
+      <PartCount>0</PartCount>
+    </Warehouse>
+  </Factory>
+</ArrayOfFactory>

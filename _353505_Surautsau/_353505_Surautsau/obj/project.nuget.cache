@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVB8lA3uihMdAahjWZj0keihmwEWRsTMy7plEvj1G8MnKfdfBoZNvnMRI8vMd/twGXdkYRYgHiSVCcv6SV+fKQ==",
+  "success": true,
+  "projectFilePath": "D:\\csharp\\_353505_Surautsau\\_353505_Surautsau\\_353505_Surautsau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\RedmiBook\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

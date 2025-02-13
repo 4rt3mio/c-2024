@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task.Collections.MyCustomCollection&lt;T&gt;" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAgAAABAAADACABAQAgAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collections\MyCustomCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Entities.Airport&lt;T&gt;">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Task.Entities.Airport&lt;T&gt;.Tariff" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Airport.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Task.Entities.Airport&lt;T&gt;.Passenger">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Airport.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Task.Entities.Airport&lt;T&gt;.Ticket" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Airport.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAABBAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAECABk=</HashCode>
+      <FileName>Entities\Airport.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="tariffs" />
+      <Field Name="passengers" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.OtherClasses.DemonstrationOfMethods" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>OtherClasses\DemonstrationOfMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task.Interfaces.IAirportSystem&lt;T&gt;" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECABg=</HashCode>
+      <FileName>Contracts\IAirportSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task.Interfaces.ICustomCollection&lt;T&gt;" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAABAAACACABAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICustomCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

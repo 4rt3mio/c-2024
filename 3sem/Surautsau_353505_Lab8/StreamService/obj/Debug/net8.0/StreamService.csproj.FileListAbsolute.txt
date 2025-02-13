@@ -1,0 +1,11 @@
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\bin\Debug\net8.0\StreamService.deps.json
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\bin\Debug\net8.0\StreamService.dll
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\bin\Debug\net8.0\StreamService.pdb
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\StreamService.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\StreamService.AssemblyInfoInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\StreamService.AssemblyInfo.cs
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\StreamService.csproj.CoreCompileInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\StreamService.dll
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\refint\StreamService.dll
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\StreamService.pdb
+D:\csharp\3sem\Surautsau_353505_Lab8\StreamService\obj\Debug\net8.0\ref\StreamService.dll

@@ -1,0 +1,15 @@
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\bin\Debug\net8.0\Surautsau_353505_Lab5.Domain.dll
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\bin\Debug\net8.0\Surautsau_353505_Lab5.Domain.pdb
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\Serializ.8EEFA712.Up2Date
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+D:\csharp\Surautsau_353505_Lab5\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task.Classes.AbstractClasses.TelevisionBase" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAgAAAAAAAAQAEAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AbstractClasses\TelevisionBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task.Classes.Factories.MotionRecognitionTVFactory" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Factories\MotionRecognitionTVFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Classes.Factories.SmartTVFactory" Collapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Factories\SmartTVFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Classes.Factories.VoiceAssistantTVFactory" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Factories\VoiceAssistantTVFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Classes.ImplementationInterfaces.InternetBrowser" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ImplementationInterfaces\InternetBrowser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Classes.ImplementationInterfaces.MotionRecognition" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ImplementationInterfaces\MotionRecognition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Classes.ImplementationInterfaces.VoiceAssistant" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Classes\ImplementationInterfaces\VoiceAssistant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task.Classes.TypesOfOpportunities.MotionRecognitionTV" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\TypesOfOpportunities\MotionRecognitionTV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task.Classes.TypesOfOpportunities.SmartTV" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\TypesOfOpportunities\SmartTV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task.Classes.TypesOfOpportunities.VoiceAssistantTV" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\TypesOfOpportunities\VoiceAssistantTV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task.Classes.Interfaces.IInternetFunctionality" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Interfaces\IInternetFunctionality.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task.Classes.Interfaces.IMotionRecognitionFunctionality" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Interfaces\IMotionRecognitionFunctionality.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task.Classes.Interfaces.ITelevisionFactory" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Interfaces\ITelevisionFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task.Classes.Interfaces.ITelevisionFunctionality" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Interfaces\ITelevisionFunctionality.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task.Classes.Interfaces.IVoiceAssistantFunctionality" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Classes\Interfaces\IVoiceAssistantFunctionality.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

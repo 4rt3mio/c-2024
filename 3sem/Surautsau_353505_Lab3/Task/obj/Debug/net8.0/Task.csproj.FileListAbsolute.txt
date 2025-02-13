@@ -1,0 +1,14 @@
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\bin\Debug\net8.0\Task.exe
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\bin\Debug\net8.0\Task.deps.json
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\bin\Debug\net8.0\Task.dll
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\bin\Debug\net8.0\Task.pdb
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.dll
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\refint\Task.dll
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.pdb
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+D:\csharp\3sem\Surautsau_353505_Lab3\Task\obj\Debug\net8.0\ref\Task.dll

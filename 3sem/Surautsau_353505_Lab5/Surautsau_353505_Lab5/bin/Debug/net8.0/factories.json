@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Factory1",
+    "Warehouse": {
+      "Name": "Warehouse1",
+      "Location": "Location1",
+      "PartCount": 0
+    }
+  },
+  {
+    "Name": "Factory2",
+    "Warehouse": {
+      "Name": "Warehouse2",
+      "Location": "Location2",
+      "PartCount": 0
+    }
+  },
+  {
+    "Name": "Factory3",
+    "Warehouse": {
+      "Name": "Warehouse3",
+      "Location": "Location3",
+      "PartCount": 0
+    }
+  },
+  {
+    "Name": "Factory4",
+    "Warehouse": {
+      "Name": "Warehouse4",
+      "Location": "Location4",
+      "PartCount": 0
+    }
+  },
+  {
+    "Name": "Factory5",
+    "Warehouse": {
+      "Name": "Warehouse5",
+      "Location": "Location5",
+      "PartCount": 0
+    }
+  }
+]

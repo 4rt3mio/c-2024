@@ -1,0 +1,14 @@
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\bin\Debug\net8.0\Surautsau_353505_Lab6.exe
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\bin\Debug\net8.0\Surautsau_353505_Lab6.deps.json
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\bin\Debug\net8.0\Surautsau_353505_Lab6.runtimeconfig.json
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\bin\Debug\net8.0\Surautsau_353505_Lab6.dll
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\bin\Debug\net8.0\Surautsau_353505_Lab6.pdb
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.AssemblyInfoInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.AssemblyInfo.cs
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.csproj.CoreCompileInputs.cache
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.dll
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\refint\Surautsau_353505_Lab6.dll
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.pdb
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\Surautsau_353505_Lab6.genruntimeconfig.cache
+D:\csharp\3sem\Surautsau_353505_Lab6\Surautsau_353505_Lab6\obj\Debug\net8.0\ref\Surautsau_353505_Lab6.dll

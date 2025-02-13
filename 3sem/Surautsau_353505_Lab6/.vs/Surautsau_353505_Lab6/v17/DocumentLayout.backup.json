@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECDBC29-0FC4-466D-B9F3-308A50B00EA4}|Surautsau_353505_Lab6\\Surautsau_353505_Lab6.csproj|d:\\csharp\\3sem\\surautsau_353505_lab6\\surautsau_353505_lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDBC29-0FC4-466D-B9F3-308A50B00EA4}|Surautsau_353505_Lab6\\Surautsau_353505_Lab6.csproj|solutionrelative:surautsau_353505_lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECDBC29-0FC4-466D-B9F3-308A50B00EA4}|Surautsau_353505_Lab6\\Surautsau_353505_Lab6.csproj|d:\\csharp\\3sem\\surautsau_353505_lab6\\surautsau_353505_lab6\\interfaces\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDBC29-0FC4-466D-B9F3-308A50B00EA4}|Surautsau_353505_Lab6\\Surautsau_353505_Lab6.csproj|solutionrelative:surautsau_353505_lab6\\interfaces\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECDBC29-0FC4-466D-B9F3-308A50B00EA4}|Surautsau_353505_Lab6\\Surautsau_353505_Lab6.csproj|d:\\csharp\\3sem\\surautsau_353505_lab6\\surautsau_353505_lab6\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDBC29-0FC4-466D-B9F3-308A50B00EA4}|Surautsau_353505_Lab6\\Surautsau_353505_Lab6.csproj|solutionrelative:surautsau_353505_lab6\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821C3F6B-2960-4E8A-919C-071ED024F901}|FIleService\\FileService.csproj|d:\\csharp\\3sem\\surautsau_353505_lab6\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821C3F6B-2960-4E8A-919C-071ED024F901}|FIleService\\FileService.csproj|solutionrelative:fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821C3F6B-2960-4E8A-919C-071ED024F901}|FIleService\\FileService.csproj|d:\\csharp\\3sem\\surautsau_353505_lab6\\fileservice\\fileservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{821C3F6B-2960-4E8A-919C-071ED024F901}|FIleService\\FileService.csproj|solutionrelative:fileservice\\fileservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821C3F6B-2960-4E8A-919C-071ED024F901}|FIleService\\FileService.csproj|d:\\csharp\\3sem\\surautsau_353505_lab6\\fileservice\\fileservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{821C3F6B-2960-4E8A-919C-071ED024F901}|FIleService\\FileService.csproj|solutionrelative:fileservice\\fileservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.csproj",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\FIleService\\FileService.csproj",
+              "RelativeDocumentMoniker": "FIleService\\FileService.csproj",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\FIleService\\FileService.csproj",
+              "RelativeToolTip": "FIleService\\FileService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T14:30:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\FIleService\\FileService.csproj",
+              "RelativeDocumentMoniker": "FIleService\\FileService.csproj",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\FIleService\\FileService.csproj",
+              "RelativeToolTip": "FIleService\\FileService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T14:22:22.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileServices.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\Surautsau_353505_Lab6\\Interfaces\\IFileServices.cs",
+              "RelativeDocumentMoniker": "Surautsau_353505_Lab6\\Interfaces\\IFileServices.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\Surautsau_353505_Lab6\\Interfaces\\IFileServices.cs",
+              "RelativeToolTip": "Surautsau_353505_Lab6\\Interfaces\\IFileServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:49:15.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\Surautsau_353505_Lab6\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Surautsau_353505_Lab6\\Entities\\Employee.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\Surautsau_353505_Lab6\\Entities\\Employee.cs",
+              "RelativeToolTip": "Surautsau_353505_Lab6\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:49:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\FIleService\\FileService.cs",
+              "RelativeDocumentMoniker": "FIleService\\FileService.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\FIleService\\FileService.cs",
+              "RelativeToolTip": "FIleService\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:48:43.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\Surautsau_353505_Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Surautsau_353505_Lab6\\Program.cs",
+              "ToolTip": "D:\\csharp\\3sem\\Surautsau_353505_Lab6\\Surautsau_353505_Lab6\\Program.cs*",
+              "RelativeToolTip": "Surautsau_353505_Lab6\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:17:05.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

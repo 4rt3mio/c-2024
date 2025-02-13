@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task.Classes.UtilityBill">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAQAAAACAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\UtilityBill.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Resident" />
+      <Property Name="UtilityType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task.Classes.Tariff">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tariff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task.Classes.Resident">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAg=</HashCode>
+      <FileName>Classes\Resident.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Tariff" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task.Classes.DemonstrationOfProgram">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Classes\DemonstrationOfProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Task.Classes.UtilityType">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAIAgAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\UtilityType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
